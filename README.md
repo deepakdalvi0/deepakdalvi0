@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+# Profile Moved
+This GitHub account is no longer active.
+Please visit my new profile:
+👉 [github.com/DeepakDalvi249](https://github.com/Deepak-Dalvi)
 <!--
 **deepakdalvi0/deepakdalvi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
